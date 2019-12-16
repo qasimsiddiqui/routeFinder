@@ -1,0 +1,72 @@
+Abottabad,Islamabad,135
+Abottabad,Mingoara,255
+Abottabad,Mardan,157
+Ahmedpur East,Bahawalpur,57
+Ahmedpur East,Khanpur,93
+Ahmedpur East,Multan,158
+Bahawalpur,RahimYarKhan,196
+Bahawalpur,Multan,100
+Bahawalpur,Khanpur,100
+Burewala,Chishtian,94
+Burewala,Sahiwal,93
+Burewala,Multan,125
+Chishtian,Bahawalpur,132
+Chishtian,Multan,175
+Chitral,Peshawar,100
+DeraGhaziKhan,Sukkur,385
+Dadu,Tando Adam,162
+Dadu,Larkana,131
+Dera Ismail Khan,Sargodha,246
+Dera Ismail Khan,Zhob,220
+Dera Ismail Khan,Jhang,189
+Faisalabad,Lahore,100
+Faisalabad,Jhang,92
+Gujrat,Lahore,1000
+Gujranwala,Sialkot,100
+Gilgit,Chitral,100
+Gujrat,Jhelum,63
+Gujrat,Gujranwala,49
+Gujrat,Faisalabad,189
+Gujranwala,Lahore,97
+Gujranwala,Faisalabad,170
+Gujrat,Sargodha,160
+Hyderabad,Karachi,100
+Hyderabad,Karachi,162
+Islamabad,Rawalpindi,100
+Islamabad,Rawalpindi,22
+Islamabad,Jhelum,199
+Islamabad,Peshawar,183
+Jhang,Sargodha,122
+Jacobabad,Khuzdar,302
+Jacobabad,Shikarpur,47
+Jhang,Multan,178
+Karachi,Larkana,456
+Khuzdar,Larkana,287
+Kohat,Islamabad,174
+Kohat,Peshawar,72
+Lahore,Faisalabad,148
+Lahore,Sahiwal,173
+Larkana,Sukkur,83
+Larkana,Quetta,395
+Multan,Bahawalpur,103
+Multan,DeraGhaziKhan,100
+Mirpur Khas,Hyderabad,75
+Mirpur Khas,Tando Adam,51
+Mingoara,Mardan,107
+Mardan,Peshawar,65
+Okara,Burewala,120
+Okara,Faisalabad,108
+Okara,Sahiwal,40
+Peshawar,Gilgit,582
+Quetta,Zhob,337
+RahimYarKhan,Sukkur,198
+Sialkot,Gujrat,60
+Sialkot,Lahore,145
+Sialkot,Gujranwala,52
+Sialkot,Faisalabad,218
+Sargodha,Gujrat,174
+Sargodha,Jhelum,160
+Sargodha,Faisalabad,132
+Sukkur,Hyderabad,330
+Sahiwal,Multan,181
+Tando Adam,Hyderabad,61

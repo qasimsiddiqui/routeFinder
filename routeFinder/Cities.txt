@@ -1,0 +1,107 @@
+Multan,Jhania,34.9
+Multan,Khanewal,61.3
+Multan,Muzaffargarh,44.7                      
+Multan,Lodhran,76.6
+Multan,Shujabad,46.2
+Multan,Kot Addu,75.7
+Multan,Kabirwala,48.6
+Multan,Shorkot,117.2
+
+
+Peshawar,Jamrud,14.7
+Peshawar,Mardan,59.9
+Peshawar,Nowshera,44.3
+Peshawar,Sardheri,43.6
+Peshawar,Kohat,71.4
+Peshawar,Swat,157.2
+Peshawar,Landi Kotal,48.34
+
+
+Bahawalpur,Lodhran,24.6 
+Bahawalpur,Hasilpur,101.3
+Bahawalpur,Mailsi,94.7
+Bahawalpur,Jalapur Pirwala,70.0
+Bahawalpur,Ahmedpur East,58.4
+
+
+Quetta,Mastung,42.9
+Quetta,Kuchlak,29.3
+Quetta,Mach,64.6
+Quetta,Kolpur,85.2
+Quetta,Spezand,24.5
+
+
+Rahim Yar Khan,Khanpur,49.2
+Rahim Yar Khan,Sadiqabad,25.7
+Rahim Yar Khan,Rajanpur,102.3
+Rahim Yar Khan,Zahir Pir,56.7
+Rahim Yar Khan,Kashmore,92.0
+Rahim Yar Khan,Kot Samaba,26.2
+
+
+Larkana,Shikarpur,71.7
+Larkana,Sukkur,82.9
+Larkana,Khairpur,84.7
+Larkana,Mehrabpur,93.2
+Larkana,Khairpur Nathan Shah,108.0
+Larkana,Dadu,127.3
+
+
+Sukkur,Khairpur,31.2
+Sukkur,Shikarpur,33.0
+Sukkur,Pano Aqil,50.5
+Sukkur,Gotki,78.7
+Sukkur,Pir Kamil,138.5
+
+
+Hyderabad,Kotri,12.0
+Hyderabad,Mirpur Khas,78.4
+Hyderabad,Tando Allah Yar,53.2
+Hyderabad,Sanghar,109.1
+Hyderabad,Nawabshah,124.3
+Hyderabad,Badin,108.8
+Hyderabad,Noori Abad,27.5
+Hyderabad,Karachi,162.2
+
+
+Karachi,Makli,105.9
+Karachi,Gaddani,49.4
+Karachi,Liari,120.8
+Karachi,Sehwan,285.5
+Karachi,Dureji,144.1
+
+
+Gilgit,Hunza,100.4
+Gilgit,Ghizer,115.0
+Gilgit,Chitral,389.4
+Gilgit,Skardu,201.1
+Gilgit,Naran,233.9
+Gilgit,Karimabad,103.1
+Gilgit,Nanga Parbat,72.5
+
+
+Zhob,Dera Ismail Khan,219.9
+Zhob,Qila Saif Ullah,148.5
+Zhob,Loralai,217.3
+Zhob,Taunsa,334.4
+Zhob,Bhakkar,243.2
+Zhob,Wana,147.0
+Zhob,Gardavi,190.0
+
+
+Sahiwal,Okara,38.6
+Sahiwal,Toba Tek Singh,101.0
+Sahiwal,Samundri,52.6
+Sahiwal,Pakpattan,48.9
+Sahiwal,Burewala,88.5
+Sahiwal,Khanewal,130.3
+Sahiwal,Pir Mahal,92.9
+Sahiwal,Basirpur,85.8
+Sahiwal,Bahawalnagar,97.0
+
+
+
+
+
+                    
+      

@@ -1,0 +1,11 @@
+Faisalabad,530,283
+Gujranwala,572,243
+Hyderabad,325,587
+Islamabad,520,160
+Karachi,263,612
+Lahore,580,272
+Multan,460,345
+Peshawar,460,155
+Quetta,267,345
+Rawalpindi,530,170
+Sargodha,510,250

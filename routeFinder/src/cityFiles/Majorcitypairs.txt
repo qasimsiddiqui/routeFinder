@@ -1,0 +1,9 @@
+Faisalabad,Lahore,100
+Hyderabad,Karachi,100
+Gujranwala,Lahore,97
+Gujranwala,Faisalabad,170
+Hyderabad,Karachi,162
+Islamabad,Rawalpindi,22
+Islamabad,Peshawar,183
+Lahore,Faisalabad,148
+Sargodha,Faisalabad,132

@@ -1,0 +1,42 @@
+Abottabad,527,147
+Ahmedpur East,449,395
+Bahawalpur,470,385
+Burewala,510,345
+Chitral,470,55
+Chishtian,520,364
+DeraGhaziKhan,425,355
+Dadu,299,520
+Dera Ismail Khan,435,261
+Faisalabad,530,283
+Gujrat,565,225
+Gujranwala,572,243
+Gilgit,565,60
+Hyderabad,325,587
+Islamabad,520,160
+Jhang,495,290
+Jhelum,550,206
+Jacobabad,330,442
+Karachi,263,612
+Khairpur,341,480
+Khuzdar,246,466
+Khanpur,427,425
+Kohat,458,176
+Lahore,580,272
+Larkana,317,478
+Multan,460,345
+Mirpur Khas,353,578
+Mingoara,490,115
+Mardan,480,145
+Okara,545,313
+Peshawar,460,155
+Quetta,267,345
+Rawalpindi,530,170
+RahimYarKhan,410,433
+Sialkot,592,223
+Sargodha,510,250
+Shekhupura,560,267
+Shikarpur,339,457
+Sahiwal,525,318
+Sukkur,345,468
+Tando Adam,337,568
+Zhob,369,288
